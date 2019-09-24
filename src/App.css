@@ -20,3 +20,30 @@
 .App-link {
   color: #09d3ac;
 }
+ 
+.input-container{
+  background: bisque;
+  border-radius: 5px
+}
+label{
+  float: left;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: darkorange
+}
+
+table{
+  border-radius: 5px
+}
+h1{
+  color: chocolate;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.btn-success{
+  width: 250px;
+  height: 50px;
+  margin-top:10px;
+  margin-left: 25%
+}
+form{
+  width: 50%
+}
